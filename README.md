@@ -39,11 +39,11 @@ Portfolio/
 **Santhosh Murugan**
 
 - GitHub: https://github.com/SANTHOSH040106
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: *www.linkedin.com/in/santhosh-m-69304b291*
 
 ## 📧 Contact
 
-Email: *(Add your email here)*
+Email: *murugansanthosh980@gmail.com*
 
 ---
 
