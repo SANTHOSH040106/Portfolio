@@ -33,9 +33,6 @@ Portfolio/
     └── ...
 ```
 
-## 📸 Screenshot
-
-_Add a screenshot of your portfolio here._
 
 ## 👨‍💻 Author
 
